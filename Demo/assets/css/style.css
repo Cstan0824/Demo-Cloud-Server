@@ -1,0 +1,10 @@
+/* Hover effect for table rows */
+table tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+/* Completed task style */
+.completed-row {
+    background-color: #d4edda !important;
+    text-decoration: line-through;
+}
